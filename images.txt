@@ -4,4 +4,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 
-vllm/vllm-openai:v0.7.3
+pytorch/pytorch:2.6.0-cuda11.8-cudnn9-devel
