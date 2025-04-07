@@ -4,4 +4,4 @@
 #xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 
-docker pull ascendai/cann:7.0.1-310p-ubuntu22.04-py3.8
+ascendai/cann:7.0.1-310p-ubuntu22.04-py3.8
