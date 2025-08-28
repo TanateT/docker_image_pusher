@@ -4,4 +4,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 
-pytorch/pytorch:2.7.1-cuda11.8-cudnn9-devel
+ascendai/cann:8.2.rc1-910b-ubuntu22.04-py3.11
