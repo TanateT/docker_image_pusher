@@ -4,4 +4,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 
-pytorch/pytorch:1.13.1-cuda11.6-cudnn8-devel
+mindspore/mindspore-gpu-cuda11.6:2.0.0-alpha
