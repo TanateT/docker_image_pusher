@@ -4,4 +4,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 
-pytorch/pytorch:2.6.0-cuda12.4-cudnn9-devel
+pytorch/pytorch:2.8.0-cuda12.6-cudnn9-devel
