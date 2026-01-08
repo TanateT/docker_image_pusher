@@ -4,4 +4,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64/v8 python:3.11.13
-linshen/prompt-optimizer:latest
+leopony/ollama-cann-atlas-a2:latest
