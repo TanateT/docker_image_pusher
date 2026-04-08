@@ -4,4 +4,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64/v8 python:3.11.13
---platform=linux/arm64 ascendai/tensorflow:2.6.5-ascend-cann5.1.2
+ascendai/tensorflow:2.6.5-ascend-cann5.1.2
