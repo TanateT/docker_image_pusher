@@ -4,4 +4,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64/v8 python:3.11.13
---platform=linux/arm64 rocker/rstudio:latest
+dopa6/atlas200dk:atlas200dk_full_root_user
