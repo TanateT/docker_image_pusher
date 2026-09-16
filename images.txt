@@ -4,4 +4,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64/v8 python:3.11.13
-ghcr.io/openhands/agent-canvas:1.0.0-rc.11
+lightx2v/lightllm_lightx2v:20260407
